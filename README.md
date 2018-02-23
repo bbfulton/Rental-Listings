@@ -8,4 +8,4 @@ http://htmlpreview.github.io/?https://github.com/bbfulton/Rental-Listings/blob/m
 
 Original link to competition and dataset:
 
-https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
+https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data
