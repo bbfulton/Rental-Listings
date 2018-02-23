@@ -5,3 +5,7 @@ This Kaggle competition provided entrants with information provided by TwoSigma 
 To view code in rendered HTML format:  
 
 http://htmlpreview.github.io/?https://github.com/bbfulton/Rental-Listings/blob/master/twosigma.html
+
+Original link to competition and dataset:
+
+https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
